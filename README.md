@@ -18,7 +18,7 @@
 1. **[Url Shortener](https://github.com/AnshKumar10/Url-Shortener)** - [Live Preview](https://snipurl-gules.vercel.app/)
    - **Description:** A simple and efficient URL shortener service that allows users to transform long URLs into compact, shareable links.
    - **Tech Stack:** React, ShadcnUI, Supabase.
-2. **[Sync Box](https://github.com/AnshKumar10/Url-Shortener)** - [Live Preview](https://snipurl-gules.vercel.app/)
+2. **[Sync Box](https://github.com/AnshKumar10/SyncBox)** - [Live Preview](https://sync-box.vercel.app/)
    - **Description:** SyncBox securely stores, shares, and lets you access your files anytime, anywhere.
    - **Tech Stack:** NextJs, ShadcnUI, Appwrite.   
 
