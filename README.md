@@ -3,77 +3,58 @@
 ---
 
 ## 🧑‍💻 **About Me**  
-Web developer with a passion for building intuitive, **high-performing digital experiences**. I blend design and functionality to craft applications that are **fast, scalable, and user-friendly**.
+**Web developer** with a passion for building **intuitive, high-performing digital experiences**. I blend **design** and **functionality** to craft **applications** that are **fast, scalable**, and **user-friendly**.
 
 ---
 
 ## 💼 **Experience**  
 
-### 🏢 **Frontend Web Developer | [ONBO - Employee Onboarding Platform](https://www.linkedin.com/company/go-onbo/)**  
+### **Frontend Web Developer | [ONBO - Employee Onboarding Platform](https://www.linkedin.com/company/go-onbo/)**  
 📅 *Sep 2022 - Dec 2024* ・ 🌍 Remote  
 
-- Built onboarding flows using **SvelteKit + TypeScript**, reducing employee ramp-up time by **40%**.  
-- Developed pixel-perfect **responsive UIs** from **Figma designs** using **Tailwind CSS**.  
-- Conducted code reviews and enforced best practices, **reducing bugs by 40%**.
+- Built an **onboarding platform** using **SvelteKit** and **TypeScript**, reducing **employee ramp-up time** by **40%** and lowering **training costs**.
+- Developed **responsive UIs** from **Figma** designs using **Tailwind CSS**, achieving **99% design accuracy** and improving **user engagement**.
+- Conducted **code reviews** and enforced **best practices**, reducing **bugs** by **40%** and enhancing **dev team efficiency**.
 
-### 🏢 **Frontend Web Developer | R2i2 Technologies Pvt. Ltd**  
+
+### **Frontend Web Developer | R2i2 Technologies Pvt. Ltd**  
 📅 *Dec 2024 - Present* ・ 🌍 Remote  
 
-- Developed an offline-first PWA for **fee collection** using **SvelteKit**.  
-- Added **PDF receipt generation**, **Excel imports**, and **push notifications** for real-time updates.  
-- Led full product cycle: UI, backend APIs, demo sessions, and feature iterations.
+- Led the development of a **modular fee collection** and **management system** from scratch, building an **offline-first PWA** using **SvelteKit**, enabling **seamless fee management**.
+- **Automated** **receipt generation** with **PDF export** & **sharing**, reducing **manual effort** for **Admins** and **Fee Collectors**.
+- Implemented **Excel import**, streamlining **bulk data uploads** and minimizing **errors**.
+- Integrated **push notifications**, delivering **real-time updates** to **Students**, **Fee Collectors**, and **Admins**.
+- Drove **end-to-end development** with the team, leading **product demos**, **feedback sessions**, and continuous **refinements**.
 
 ---
 
 ## 🚀 Projects
 
----
-
-### 🔗 SnipURL  
+### 🔗 **SnipURL**  
 > A fast and intuitive **URL shortener** to manage and share links easily.
 
 - 🌐 [Live Demo](https://snipurl-gules.vercel.app/)  
 - 💻 [Source Code](https://github.com/AnshKumar10/Url-Shortener)  
-- 🛠️ **Tech Stack:** React, TypeScript, Tailwind CSS, Supabase, Shadcn UI
+- 🛠️ **Tech Stack:** **React**, **TypeScript**, **Tailwind CSS**, **Supabase**, **Shadcn UI**
 
 **Key Features:**
-- 🔐 Authentication via Supabase  
-- 🔗 Shorten & manage custom URLs  
-- 📏 Form validation with Formik + Yup  
-- ⚛️ State management using Context API & custom hooks  
-- 🎨 Clean, responsive UI
+ - Built a **responsive URL shortener** with **modular functional components**, custom hooks, and **Context API** for efficient **state management**.
+ - Designed sleek UI with **Tailwind CSS** and **ShadCN UI**, ensuring **mobile responsiveness** and **accessibility**.
+ - Implemented **form validation** using **Formik** and **Yup**, with **user authentication** and protected routes for secure **access control**.
+ - Ensured **type safety** and **code scalability** using **TypeScript**, following clean code and **frontend best practices**.
 
----
-
-### ☁️ SyncBox  
+### ☁️ **SyncBox**  
 > A secure, scalable **cloud storage app** for uploading, managing, and sharing files.
 
 - 🌐 [Live Demo](https://sync-box.vercel.app/)  
 - 💻 [Source Code](https://github.com/AnshKumar10/SyncBox)  
-- 🛠️ **Tech Stack:** Next.js, React, Appwrite, Tailwind CSS, TypeScript
+- 🛠️ **Tech Stack:** **Next.js**, **React**, **Appwrite**, **Tailwind CSS**, **TypeScript**
 
 **Key Features:**
-- 🔑 Passwordless authentication via Appwrite  
-- 📂 Upload/download files with versioning  
-- 🔄 Real-time updates across sessions  
-- 💾 Access-controlled file sharing  
-- 📱 Mobile-first, responsive layout
-
----
-
-### 🌱 Green Circle *(Hackathon Project)*  
-> An **offline-first PWA** enabling local plant-swapping communities.
-
-- 🌐 [Live Demo](https://green-circle.pages.dev/)  
-- 🛠️ **Tech Stack:** SvelteKit, DaisyUI, PWA
-
-**Key Features:**
-- 🌿 Swap plants by category/location  
-- 📍 Nearby discovery using geolocation  
-- ⚡ Works offline with service workers  
-- 🧪 Simple user flow for easy engagement
-
-🏆 *4th Place - Green Circle Hackathon*
+ - Built a **responsive** and **secure file storage app** using **Next.js** and **TypeScript**, enabling users to upload, access, and share files from any device.
+ - Integrated **Appwrite** for **passwordless authentication**, **real-time file uploads**, and **email-based file sharing**, enhancing both **security** and **user experience**.
+ - Designed an intuitive UI with **ShadCN UI** and **Tailwind CSS**, ensuring **mobile responsiveness** and a clean, modern look.
+ - Developed with **modular components**, custom hooks, and **context-based state management** to ensure **scalability** and **maintainability**.
 
 ---
 
@@ -81,20 +62,36 @@ Web developer with a passion for building intuitive, **high-performing digital e
 
 ### 🏠 [Raltech Infra - Real Estate CRM](https://www.raltechinfra.com/)  
 📅 *Feb 2024* ・ 🌍 Remote  
+ 
+ - Built a **Progressive Web App (PWA)** using **SvelteKit** for client management and visit scheduling, **reducing missed appointments by 40%** and improving agent follow-ups.
+ - Enhanced **response times by 25%**, increasing client accountability and **streamlining workflows for better efficiency**.
 
-- Built a **Progressive Web App (PWA)** using **SvelteKit** to manage leads and visits.  
-- Reduced missed appointments by **40%** through scheduling automation.  
-- Improved agent productivity and follow-up time with faster feedback loops.
+---
+
+## 🏆 Hackathons
+
+### 🌱 **Green Circle**  
+> Plant Sharing & Marketplace
+
+- 🌐 [Live Demo](https://green-circle.pages.dev)  
+- 🛠️ **Tech Stack:** **Svelte**, **SvelteKit**, **TypeScript**, **Tailwind CSS**, **DaisyUI**, **Nhost**, **GraphQL**, **Hasura**, **IndexDb**, **Svelte/ShadcnUi**
+
+**Key Features:**
+- Developed an **offline-first PWA** using **SvelteKit** and **DaisyUI**, enabling **seamless plant gifting** and exchanges, resulting in an increase in **user engagement** within the community.
+- Designed and built the UI, integrating APIs for **plant listings**, **swaps**, and **community interactions**, improving **user retention** by **25%** through an intuitive and engaging experience.
+- Led platform **architecture**, managing **database modeling**, **API integrations**, and **offline caching**, enhancing **performance** and ensuring smooth functionality even in low-connectivity environments.
+
+🏆 *4th Place - Green Circle Hackathon*
 
 ---
 
 ## 🎓 **Education**  
 
-### Bachelor of Commerce (B.Com) in Accounting  
+### **Bachelor of Commerce (B.Com) in Accounting**  
 📍 Binod Bihari Mahato Koyalanchal University, Dhanbad  
 📅 2021 - 2024  
 
-### Higher Secondary School  
+### **Higher Secondary School**  
 📍 Kids Garden Secondary School, Dhanbad  
 📅 2019 - 2021  
 
