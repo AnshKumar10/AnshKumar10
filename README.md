@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 **About Me**  
-**Web developer** with a passion for building **intuitive, high-performing digital experiences**. I blend **design** and **functionality** to craft **applications** that are **fast, scalable**, and **user-friendly**.
+**Self-taught web developer** with **2.5+ years of experience**, crafting seamless, high-performance web applications. I'm constantly exploring new challenges and opportunities.
 
 ---
 
