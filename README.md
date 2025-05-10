@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 **About Me**  
-**Self-taught web developer** with **2.5+ years of experience**, crafting seamless, high-performance web applications. I'm constantly exploring new challenges and opportunities.
+**Self-taught web developer**, crafting seamless, high-performance web applications. I'm constantly exploring new challenges and opportunities.
 
 ---
 
