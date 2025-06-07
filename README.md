@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 **About Me**  
-**Self-taught web developer**, crafting seamless, high-performance web applications. I'm constantly exploring new challenges and opportunities.
+**Self Taught** Frontend Developer with **2.5+ years** of hands-on experience (including internship) crafting responsive, high-performance web applications using **JavaScript, React, and Svelte**. Skilled in building clean, user-focused UIs and integrating seamlessly with backend APIs. Familiar with **TypeScript, Tailwind CSS, Next.js**, and backend fundamentals like **Node.js, Express, and MongoDB**. 
 
 ---
 
@@ -88,11 +88,11 @@
 ## 🎓 **Education**  
 
 ### **Bachelor of Commerce (B.Com) in Accounting**  
-📍 Binod Bihari Mahato Koyalanchal University, Dhanbad  
+📍 Binod Bihari Mahato Koyalanchal University  
 📅 2021 - 2024  
 
 ### **Higher Secondary School**  
-📍 Kids Garden Secondary School, Dhanbad  
+📍 Kids Garden Secondary School  
 📅 2019 - 2021  
 
 ---
