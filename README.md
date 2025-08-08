@@ -3,7 +3,8 @@
 ---
 
 ## 🧑‍💻 **About Me**  
-**Self Taught** Frontend Developer with **2.5+ years** of hands-on experience (including internship) crafting responsive, high-performance web applications using **JavaScript, React, and Svelte**. Skilled in building clean, user-focused UIs and integrating seamlessly with backend APIs. Familiar with **TypeScript, Tailwind CSS, Next.js**, and backend fundamentals like **Node.js, Express, and MongoDB**. 
+
+Frontend Developer focused on building fast, accessible, and user-friendly web apps with **React, Svelte, and TypeScript**. With a solid grasp of **Node.js and MongoDB**, I collaborate effectively across the full stack to deliver seamless end-to-end solutions.
 
 ---
 
