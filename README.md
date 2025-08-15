@@ -1,6 +1,3 @@
-<h1 align="center">👋 Hi, I'm Ansh Kumar</h1>
-
-
 ## 💡 About Me
 - 💻 Experienced in **React**, **JavaScript**, **Svelte**  
 - 🚀 Built responsive, high-performance apps & MVPs for startups  
@@ -56,8 +53,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
 
 ---
 
