@@ -3,7 +3,7 @@
 - 🚀 Built responsive, high-performance apps & MVPs for startups  
 - 🎨 Convert **Figma designs** into pixel-perfect UI using **TypeScript**, **Tailwind CSS**, **Next.js**  
 - 🔗 Backend: **Node.js**, **Express**, **MongoDB**  
-- 📚 Currently exploring **React Native** & **Go**  
+- 📚 Currently exploring and learning **GenAi**  
 - ✉️ Reach me at: [anshkumar8710@gmail.com](mailto:anshkumar8710@gmail.com)  
 - 🌐 [Portfolio](https://ansh-kumar-portfolio.vercel.app) • 💼 [LinkedIn](https://www.linkedin.com/in/ansh-kumar-715b60242) • 🐦 [X](https://x.com/anshkumar8710)
 
@@ -11,11 +11,11 @@
 
 ## 🌟 Featured Projects
 
-| Project | Description 
-|---------|-------------
-| **[SnipURL](https://snipurl-gules.vercel.app)** 🔗 | Secure URL Shortener with JWT authentication & 100% Lighthouse score.
-| **[SyncBox](https://sync-box.vercel.app)** ☁️ | Cloud storage app with passwordless login & real-time uploads. 
-| **[Green Circle](https://green-circle.pages.dev/)** 🌱 | Offline-first plant sharing marketplace (4th place in hackathon).
+| Project | Description |
+|--------|-------------|
+| **[Revisit](https://revisit.pages.dev/)** | AI-powered bookmark manager with smart summaries, gamification, and analytics to track and prioritize reading habits. |
+| **[Green Circle](https://green-circle.pages.dev/)** | Offline-first plant-sharing marketplace with PWA support; secured **4th place in a hackathon**. |
+| **LMS (Learning Management System)** | Role-based learning platform with course management, progress tracking, and secure authentication for students and instructors. |
 
 ---
 
