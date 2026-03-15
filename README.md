@@ -1,9 +1,9 @@
 ## 💡 About Me
-- 💻 Experienced in **React**, **JavaScript**, **Svelte**  
-- 🚀 Built responsive, high-performance apps & MVPs for startups  
-- 🎨 Convert **Figma designs** into pixel-perfect UI using **TypeScript**, **Tailwind CSS**, **Next.js**  
-- 🔗 Backend: **Node.js**, **Express**, **MongoDB**  
-- 📚 Currently exploring and learning **GenAi**  
+- 💻 Experienced in **JavaScript**, **TypeScript**, **React**, **Next.js**  
+- 🚀 Built **high-performance web apps, PWAs, and SaaS platforms** from MVPs to production  
+- 🎨 Convert **Figma designs** into pixel-perfect UI with **Tailwind CSS** and modern frontend architectures  
+- 🔗 Backend & Tools: **Node.js**, **Express**, **PostgreSQL**, **Docker**  
+- 📚 Currently exploring **GEN AI** and **scalable system design**  
 - ✉️ Reach me at: [anshkumar8710@gmail.com](mailto:anshkumar8710@gmail.com)  
 - 🌐 [Portfolio](https://ansh-kumar-portfolio.vercel.app) • 💼 [LinkedIn](https://www.linkedin.com/in/ansh-kumar-715b60242) • 🐦 [X](https://x.com/anshkumar8710)
 
@@ -13,9 +13,9 @@
 
 | Project | Description |
 |--------|-------------|
-| **[Revisit](https://revisit.pages.dev/)** | AI-powered bookmark manager with smart summaries, gamification, and analytics to track and prioritize reading habits. |
-| **[Green Circle](https://green-circle.pages.dev/)** | Offline-first plant-sharing marketplace with PWA support; secured **4th place in a hackathon**. |
-| **LMS (Learning Management System)** | Role-based learning platform with course management, progress tracking, and secure authentication for students and instructors. |
+| **[Altimey](https://uptime-test.vercel.app/)** | Scalable SaaS uptime monitoring platform with dashboards, real-time alerts, **role-based multi-user workspaces**, and **Razorpay subscriptions**. |
+| **[Green Circle](https://green-circle.pages.dev/)** | Offline-first plant-sharing marketplace (PWA) enabling swaps, collections, and community engagement; placed **4th in a hackathon**. |
+| **[Revisit](https://revisit.pages.dev/)** | AI-powered bookmark manager with smart summaries, gamification, and analytics to track, prioritize, and retain knowledge. 
 
 ---
 
